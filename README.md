@@ -29,8 +29,8 @@ Projects I have built during this journey
 - Technology Used - `React JS`, `TailwindCSS`, `Javascript`, `Firebase`
 - [Repo Link](https://github.com/Virendra-khorwal/house-marketplace-webapp)
 ```bash
-  House Marketplace web app is a web app where user can rent or sell their house. It built with React Js, 
-  Tailwind CSS and Firebase authentication and deployed on vercel.
+  House Marketplace web app is a web app where user can rent or sell their house. 
+  It built with React Js, Tailwind CSS and Firebase authentication and deployed on vercel.
 ```
 ### Candidate Job Dashboard
 - Technology Used - `React JS`, `TailwindCSS`, `Javascript`
