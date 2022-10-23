@@ -61,7 +61,7 @@ Projects I have built during this journey
 
 
 ## 🛠 Skills
-`React JS`, `Redux`, `TailwindCSS`, `React Native`, `Python`, `C++`, `Javascript`, `Node JS`, `MongoDB`
+`React JS`,`Next Js`, `Redux`, `TailwindCSS`, `React Native`, `Python`, `C++`, `Javascript`, `Node JS`, `MongoDB`
 
 
 ## 🔗 Links
